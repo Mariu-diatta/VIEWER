@@ -30,7 +30,7 @@ pyzmq==22.0.2
 simplejson==3.17.2
 six==1.15.0
 somepackage==1.2.3
-sqlparse==0.4.1
+sqlparse==0.4.2
 tornado==6.1
 traitlets==5.0.5
 wcwidth==0.2.5
